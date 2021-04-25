@@ -5,4 +5,4 @@ What I want to happen: Even though it may use more resources, I would like the A
 
 What's happening: It uses the original resolution divided by 8 with grayscale. This can make it hard to see most things, such as rocks and slopes. I also can't configure it to play Sega Master System games, such as Sonic 1 SMS.
 
-Special Thanks to Lucas Thompson for helping me out with this. Here is Lucas's channel: https://www.youtube.com/LucasThompson
+Special Thanks to Lucas Thompson for helping me out with this. Here is Lucas's channel. (Subscribe to them, they deserve it!) https://www.youtube.com/LucasThompson
